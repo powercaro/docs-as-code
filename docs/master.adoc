@@ -1,6 +1,7 @@
 = Sample Doc
 
 Hello world!
+powercaro version of this file
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
